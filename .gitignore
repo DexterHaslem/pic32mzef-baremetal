@@ -1,0 +1,9 @@
+*.o
+*.o.d
+*.map
+*.map.d
+*.elf
+*.elf.d
+*.mk
+dist/
+
